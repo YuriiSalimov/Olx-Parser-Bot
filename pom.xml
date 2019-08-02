@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.telegram.spring.parser.olx</groupId>
+    <groupId>com.bot.parser.olx</groupId>
     <artifactId>olx-parser-bot</artifactId>
-    <version>0.3.20190803</version>
+    <version>0.4.20190803</version>
 
     <name>OLX Parser Bot</name>
     <description>
@@ -67,7 +67,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>com.bot.telegram.paser.olx.Main</mainClass>
+                            <mainClass>com.bot.parser.olx.Main</mainClass>
                             <name>${artifactId}</name>
                         </program>
                     </programs>
