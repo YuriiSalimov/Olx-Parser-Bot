@@ -1,0 +1,11 @@
+
+${AnsiColor.MAGENTA}         ${AnsiColor.GREEN} _
+${AnsiColor.MAGENTA}  _____  ${AnsiColor.GREEN}| |     ${AnsiColor.YELLOW} _    _     ${AnsiColor.RED} ______                                ${AnsiColor.BLUE} ______
+${AnsiColor.MAGENTA} / ___ \ ${AnsiColor.GREEN}| |     ${AnsiColor.YELLOW}\ \  / /    ${AnsiColor.RED}(_____ \                               ${AnsiColor.BLUE}(____  \       _
+${AnsiColor.MAGENTA}| |   | |${AnsiColor.GREEN}| |     ${AnsiColor.YELLOW} \ \/ /     ${AnsiColor.RED} _____) )___  ____ ___  ____  ____     ${AnsiColor.BLUE} ____)  ) ___ | |_
+${AnsiColor.MAGENTA}| |   | |${AnsiColor.GREEN}| |_____${AnsiColor.YELLOW}  )  (      ${AnsiColor.RED}|  ____/ _  |/ ___)___)/ _  )/ ___)    ${AnsiColor.BLUE}|  __  ( / _ \|  _)
+${AnsiColor.MAGENTA}| |___| |${AnsiColor.GREEN}|_______)${AnsiColor.YELLOW}/ /\ \     ${AnsiColor.RED}| |   ( ( | | |  |___ ( (/ /| |        ${AnsiColor.BLUE}| |__)  ) |_| | |__
+${AnsiColor.MAGENTA} \_____/ ${AnsiColor.GREEN}        ${AnsiColor.YELLOW}/_/  \_\    ${AnsiColor.RED}|_|    \_||_|_|  (___/ \____)_|        ${AnsiColor.BLUE}|______/ \___/ \___)
+
+${AnsiColor.GREEN} :: OLX flat parser with Telegram notification ::
+${AnsiColor.CYAN} :: Yurii Salimov (yurii.alex.salimov@gmail.com) ::
