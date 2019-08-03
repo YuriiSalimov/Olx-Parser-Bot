@@ -108,9 +108,16 @@ public final class QueryNumberConfigController {
                         .setCallbackData("/config/query-number/set?20")
         );
 
+        final List<InlineKeyboardButton> keyboardRow3 = new ArrayList<>();
+        keyboardRow3.add(
+                new InlineKeyboardButton("Back")
+                        .setCallbackData("/config/rooms-number")
+        );
+
         final List<List<InlineKeyboardButton>> keyboardRows = new ArrayList<>();
         keyboardRows.add(keyboardRow1);
         keyboardRows.add(keyboardRow2);
+        keyboardRows.add(keyboardRow3);
 
         return sendMessage.setReplyMarkup(
                 new InlineKeyboardMarkup().setKeyboard(keyboardRows)
