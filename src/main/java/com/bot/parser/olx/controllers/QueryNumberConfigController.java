@@ -111,7 +111,7 @@ public final class QueryNumberConfigController {
         final List<InlineKeyboardButton> keyboardRow3 = new ArrayList<>();
         keyboardRow3.add(
                 new InlineKeyboardButton("Back")
-                        .setCallbackData("/config/rooms-number")
+                        .setCallbackData("/config")
         );
 
         final List<List<InlineKeyboardButton>> keyboardRows = new ArrayList<>();
