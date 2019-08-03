@@ -126,7 +126,7 @@ public final class SortController {
         final List<InlineKeyboardButton> keyboardRow4 = new ArrayList<>();
         keyboardRow4.add(
                 new InlineKeyboardButton("Back")
-                        .setCallbackData("/config/price")
+                        .setCallbackData("/config")
         );
 
         final List<List<InlineKeyboardButton>> keyboardRows = new ArrayList<>();
