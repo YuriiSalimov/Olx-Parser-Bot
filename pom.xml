@@ -68,7 +68,7 @@
                     <programs>
                         <program>
                             <mainClass>com.bot.parser.olx.Main</mainClass>
-                            <name>${artifactId}</name>
+                            <name>${project.artifactId}</name>
                         </program>
                     </programs>
                 </configuration>
