@@ -6,7 +6,7 @@
 
     <groupId>com.bot.parser.olx</groupId>
     <artifactId>olx-parser-bot</artifactId>
-    <version>0.4.20190803</version>
+    <version>0.5.20190803</version>
 
     <name>OLX Parser Bot</name>
     <description>
@@ -41,12 +41,6 @@
 
     <build>
         <plugins>
-            <!-- Spring Boot plugin
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>-->
-
             <!-- Maven Compiler plugin -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
