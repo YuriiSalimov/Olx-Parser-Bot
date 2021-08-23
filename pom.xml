@@ -27,7 +27,7 @@
         <maven-compiler-plugin.version>3.6.1</maven-compiler-plugin.version>
         <appassembler-maven-plugin.version>2.1.0</appassembler-maven-plugin.version>
         <telegrambots.version>4.4.0.1</telegrambots.version>
-        <jsoup.version>1.12.1</jsoup.version>
+        <jsoup.version>1.14.2</jsoup.version>
         <lombok.version>1.18.8</lombok.version>
         <commons-lang3.version>3.9</commons-lang3.version>
     </properties>
